@@ -1,0 +1,36 @@
+a, input{
+    outline: none;
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    cursor: pointer;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    color: #3e3f5e;
+}
+
+button, a, p, span, em{
+    font-family: 'Arial', sans-serif;
+}
+
+p{
+    margin: 0;
+}
